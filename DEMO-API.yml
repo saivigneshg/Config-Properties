@@ -8,6 +8,6 @@ spring:
    web:
     exposure:
      include: "*"
-  message: "this is just a message from config server"
+  message: this is just a message from config server
   server:
    port: 8082
